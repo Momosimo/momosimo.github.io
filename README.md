@@ -1,6 +1,6 @@
 # momosimo.github.io // sWorkman.dev
 
-## Installing prerequisites
+## Install prerequisites
 
 1. Install Command Line Tools & Ruby
 ```
