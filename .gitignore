@@ -5,7 +5,11 @@
 # Gemfile.lock
 # *.gem
 
-_site/
-.sass-cache/
-.jekyll-cache/
+# _site/
+# .sass-cache/
+# .jekyll-cache/
+# .jekyll-metadata
+
+_site
 .jekyll-metadata
+*-cache/
