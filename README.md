@@ -1,4 +1,4 @@
-# sworkman.dev
+# sWorkman.dev
 
 Visit me at [my website](https://www.sworkman.dev/)!
 
