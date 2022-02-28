@@ -1,0 +1,1 @@
+rm -r assets/, js/, css/, index.html
