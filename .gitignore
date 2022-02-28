@@ -3,3 +3,4 @@ node_modules
 dist/assets/img/photos/
 .old
 site_compiler
+.vscode
