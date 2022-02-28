@@ -4,12 +4,12 @@ Visit me at [my website](https://www.sworkman.dev/)!
 
 ## Using this repository
 
-To run the site locally, check out the `develop` branch and run `npm install`
+To run the site locally, checkout the `main` branch and run `npm install`
 then `npm start`.
 
-To compile the site, check out `develop` then run `npm run build`.
+To compile the site, cd `site_compiler` then run `npm run build`.
 
-Copy the contents of `dist` into the `main` branch to deploy the website.
+Copy the contents of `dist` into the root dir to deploy the website.
 
 ## Questions? Comments? Concerns?
 
