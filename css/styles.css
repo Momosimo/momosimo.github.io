@@ -11416,12 +11416,14 @@ a:hover {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  opacity: 0.75;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
   background-color: #99BADD;
+  opacity: 1;
 }
 
 .dev-icons {
