@@ -11291,8 +11291,8 @@ textarea.form-control-lg {
 }
 body {
   padding-top: 3.375rem;
-  color: #c2c2c2;
-  background-color: #0c0c0c;
+  color: #c8c8c8;
+  background-color: #36393f;
 }
 
 @media (min-width: 992px) {
@@ -11317,6 +11317,7 @@ h6,
 
 h1, .h1 {
   line-height: 1;
+  color: white;
 }
 
 h4, .h4 {
