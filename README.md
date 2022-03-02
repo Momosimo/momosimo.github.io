@@ -8,7 +8,7 @@ To run the site locally, checkout the `main` branch of
 [this repository](https://github.com/Momosimo/personal-site-compiler)
 and run `npm install` then `npm start`.
 
-To only compile the site, cd `site_compiler` then run `npm run build`.
+To only compile the site, cd `~/personal-site-compiler` then run `npm run build`.
 
 To prepare `~/momosimo.github.io` for dist file population,
 `cd ~/momosimo.github.io` then `sh scrub.sh`.
