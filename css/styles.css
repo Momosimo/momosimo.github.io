@@ -7811,9 +7811,6 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
-  background-image: url(../assets/img/photos/IMG_1537.jpg);
-  background-size: cover;
-  background-position: center center;
 }
 
 .bg-secondary {
@@ -11341,17 +11338,30 @@ p.lead {
   font-size: 1.5rem;
 }
 
+a:hover {
+  color: #ffffff;
+}
+
+.bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-image: url(../assets/img/photos/IMG_1537.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
   letter-spacing: 0.05rem;
-  text-transform: uppercase;
+}
+#sideNav .navbar-toggler {
+  opacity: 0.9;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d2e1f0;
+  outline-color: #ffffff;
 }
 
 @media (min-width: 992px) {
