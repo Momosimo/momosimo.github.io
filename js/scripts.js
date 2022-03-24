@@ -32,3 +32,12 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+function emailToClipboard() {
+    navigator.clipboard.writeText("hello@nicholasjworkman.com");
+    alert("The email address [ hello@nicholasjworkman.com ] was copied to your clipboard.");
+}
+
+function easterEgg() {
+    alert("↑ ↑ ↓ ↓ ← → ← → B A");
+}

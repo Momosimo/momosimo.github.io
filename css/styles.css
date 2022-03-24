@@ -11345,7 +11345,7 @@ a:hover {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
-  background-image: url(../assets/img/photos/IMG_1537.jpg);
+  background-image: url(../assets/img/photos/IMG_1537.webp);
   background-size: cover;
   background-position: center center;
 }
@@ -11386,6 +11386,15 @@ a:hover {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  #sideNav .active {
+    color: #ffffff;
+    opacity: 0.97;
+  }
+  #sideNav .navbar-nav a:hover {
+    background-color: #36393f;
+    color: #ffffff;
+    opacity: 1;
   }
   #sideNav .navbar-collapse {
     display: flex;
