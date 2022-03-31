@@ -1,6 +1,6 @@
-# sWorkman.dev
+# https://www.nicholasjworkman.com/
 
-Visit me at [my website](https://www.sworkman.dev/)!
+Visit me at [my website](https://www.nicholasjworkman.com/)!
 
 ## Using this repository and its helper repository
 
@@ -16,6 +16,6 @@ To populate `~/momosimo.github.io` with dist files from
 
 ## Questions? Comments? Concerns?
 
-Please reach out to me at nichol@sworkman.dev with any questions, etc.
+Please reach out to me at hello@nicholasjworkman.com with any questions, etc.
 This repository was created and is maintained
 by [Momosimo](https://github.com/Momosimo).
